@@ -19,7 +19,7 @@ The system leverages the Groq API for generating responses, ensuring a structure
 
 https://console.groq.com/docs/quickstart
 
-#Groq License Notice
+# Groq License Notice
 
 This open-source language model is provided by Groq, licensed under the Apache License 2.0. You can find the full license terms at [Apache.org/LICENSE-2.0.txt](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
