@@ -13,3 +13,8 @@ The system leverages the Groq API for generating responses, ensuring a structure
 `python main.py 'Generate a python function that explores the optimized primality tests and more efficient algorithms for generating prime numbers.'`
 
 ![afbeelding](https://github.com/TheBarret/GroqSuperCharged/assets/25234371/a6a671f8-ce65-49be-a86e-072234535033)
+
+
+# Free API Keys:
+
+https://console.groq.com/docs/quickstart
