@@ -23,10 +23,6 @@ https://console.groq.com/docs/quickstart
 
 This open-source language model is provided by Groq, licensed under the Apache License 2.0. You can find the full license terms at [Apache.org/LICENSE-2.0.txt](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
-**Attribution**
-
-This service is made possible by the Groq team, including [list of authors/ contributors]. groove.ai
-
 **License Credits**
 
 Apache License 2.0 (Apache-2.0)
